@@ -1,0 +1,257 @@
+{
+    "awards": [
+      {
+        "title": "GirlScript Summer of Code (GSSoC) 2024 - Champion Badge",
+        "issuer": "GirlScript Foundation",
+        "category": "Open Source Contribution",
+        "description": "Earned for consistent contributions and active participation in GSSoC 2024 Extended Edition.",
+        "year": 2024,
+        "date_awarded": "2024-10-30"
+      },
+      {
+        "title": "GSSoC 2024 - Trailblazer Badge",
+        "issuer": "GirlScript Foundation",
+        "category": "Milestone Achievement",
+        "description": "Awarded for completing major open-source milestones during the program.",
+        "year": 2024
+      },
+      {
+        "title": "GSSoC 2024 - Postman Badge",
+        "issuer": "GirlScript Foundation",
+        "category": "API Development",
+        "description": "Recognized for completing API-related tasks and learning through Postman.",
+        "year": 2024
+      },
+      {
+        "title": "GSSoC 2024 - Web3Hack Badge",
+        "issuer": "GirlScript Foundation",
+        "category": "Web3 Development",
+        "description": "Earned for completing blockchain-related learning and contributions.",
+        "year": 2024
+      },
+      {
+        "title": "GSSoC 2024 - Explorer Badge",
+        "issuer": "GirlScript Foundation",
+        "category": "Exploration and Learning",
+        "description": "Recognized for exploring multiple open-source projects and active community engagement.",
+        "year": 2024
+      },
+      {
+        "title": "GSSoC 2024 - Adventurer Badge",
+        "issuer": "GirlScript Foundation",
+        "category": "Participation",
+        "description": "Awarded for completing project contributions across various repositories.",
+        "year": 2024
+      },
+      {
+        "title": "GSSoC 2024 - Summit Seeker Badge",
+        "issuer": "GirlScript Foundation",
+        "category": "Completion",
+        "description": "Earned by successfully finishing all phases of the GSSoC program.",
+        "year": 2024
+      },
+      {
+        "title": "GirlScript Summer of Code 2024 - Participation Certificate",
+        "issuer": "GirlScript Foundation",
+        "category": "Open Source Participation",
+        "description": "Recognized as an active contributor in the GirlScript Summer of Code 2024 Extended Edition.",
+        "year": 2024
+      },
+      {
+        "title": "Postman API Fundamentals Student Expert",
+        "issuer": "Postman",
+        "category": "API Development",
+        "description": "Badge earned after completing Postman's API Fundamentals course and practical exercises.",
+        "year": 2024
+      }
+    ],
+
+    "certifications": [
+      {
+        "title": "Programming with python",
+        "platform": "Tutedude",
+        "completion_date": "2025-09-02",
+        "key_topics": [
+          "Python",
+          "Flask",
+          "Django",
+          "Computer Vision",
+          "Tkinter"
+        ]
+      },
+      {
+        "title": "Meta: Introduction to Front-End Development",
+        "platform": "Coursera",
+        "issuer": "Meta",
+        "topics": [
+          "Web Fundamentals",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Responsive Design"
+        ],
+        "completion_date": "2024-09-12",
+        "certificate_type": "Professional Certificate"
+      },
+      {
+        "title": "Meta: In-Depth HTML and CSS",
+        "platform": "Coursera",
+        "issuer": "Meta",
+        "topics": ["HTML5", "CSS3", "Responsive Layouts", "Accessibility"],
+        "completion_date": "2024-10-08"
+      },
+      {
+        "title": "Meta: Programming with JavaScript",
+        "platform": "Coursera",
+        "issuer": "Meta",
+        "topics": [
+          "JavaScript Syntax",
+          "Functions",
+          "OOP",
+          "DOM Manipulation",
+          "Testing with Jest"
+        ],
+        "completion_date": "2024-09-23"
+      },
+      {
+        "title": "Meta: Version Control",
+        "platform": "Coursera",
+        "issuer": "Meta",
+        "topics": [
+          "Git",
+          "GitHub",
+          "Branching",
+          "Collaboration",
+          "Pull Requests"
+        ],
+        "completion_date": "2024-09-28"
+      },
+      {
+        "title": "Meta: React Basics",
+        "platform": "Coursera",
+        "issuer": "Meta",
+        "topics": ["Components", "Props", "State", "JSX"],
+        "completion_date": "2024-11-1"
+      },
+      {
+        "title": "Meta: Advanced React",
+        "platform": "Coursera",
+        "issuer": "Meta",
+        "topics": [
+          "Hooks",
+          "Routing",
+          "Performance Optimization",
+          "State Management"
+        ],
+        "completion_date": "2025-08-01"
+      },
+      {
+        "title": "Meta: Introduction to Back-End Development",
+        "platform": "Coursera",
+        "issuer": "Meta",
+        "topics": [
+          "Server-Side Development",
+          "APIs",
+          "Databases",
+          "Authentication"
+        ],
+        "completion_date": "2025-09-24"
+      },
+      {
+        "title": "Google: Introduction to Generative AI",
+        "platform": "Coursera",
+        "issuer": "Google Cloud",
+        "topics": ["Generative AI Fundamentals", "Model Training", "AI Ethics"],
+        "completion_date": "2024-10"
+      },
+      {
+        "title": "Google: Introduction to Responsible AI",
+        "platform": "Coursera",
+        "issuer": "Google Cloud",
+        "topics": [
+          "AI Fairness",
+          "Transparency",
+          "Bias Mitigation",
+          "Accountability"
+        ],
+        "completion_date": "2024-10-23"
+      },
+      {
+        "title": "Google: Introduction to Large Language Models",
+        "platform": "Coursera",
+        "issuer": "Google Cloud",
+        "topics": [
+          "LLM Concepts",
+          "Transformer Architecture",
+          "Applications of LLMs"
+        ],
+        "completion_date": "2024-10-28"
+      },
+      {
+        "title": "Coursera: Machine Learning with Big Data",
+        "platform": "Coursera",
+        "issuer": "University of California, San Diego",
+        "topics": [
+          "Machine Learning Basics",
+          "Big Data Tools",
+          "Model Evaluation"
+        ],
+        "completion_date": "2025-04-25"
+      },
+      {
+        "title": "Coursera: Data Science in Python",
+        "platform": "Coursera",
+        "issuer": "University of Michigan",
+        "topics": ["Data Wrangling", "Pandas", "NumPy", "Visualization"],
+        "completion_date": "2024-09-11"
+      },
+      {
+        "title": "Introduction to Big Data",
+        "platform": "Coursera",
+        "issuer": "University of California, San Diego",
+        "topics": ["Data Processing", "MapReduce", "Big Data Architecture"],
+        "completion_date": "2024-08-28"
+      },
+      {
+        "title": "Postman API Fundamentals Student Expert",
+        "platform": "Postman Academy",
+        "issuer": "Postman",
+        "topics": ["API Requests", "Collections", "Variables", "Testing"],
+        "completion_date": "2024-11-04",
+        "certificate_type": "Badge"
+      },
+      {
+        "title": "Solutions Architecture Job Simulation",
+        "platform": "Forage",
+        "issuer": "AWS",
+        "topics": [" Designing a simple", "scalable", "hosting architecture"],
+        "completion_date": "2024-12-05"
+      }
+    ],
+    "rankings": [
+      {
+        "event": "GirlScript Summer of Code (GSSoC) 2024 - Extended Edition",
+        "type": "Open Source Program",
+        "rank": 246,
+        "score": 1010,
+        "duration": "October 1 - October 30, 2024",
+        "achievement": "Ranked among top contributors with multiple successful PRs and badges earned.",
+        "year": 2024
+      },
+      {
+        "event": "Common Internship Test 2024",
+        "type": "National-Level Competitive Test",
+        "rank": 2345,
+        "organization": "Unstop",
+        "achievement": "Achieved All India Rank 2345 for internship readiness and technical skill evaluation.",
+        "year": 2024
+      },
+      {
+        "event": "CodeSummit 2024",
+        "type": "Coding and Problem-Solving Competition",
+        "platform": "Unstop",
+        "achievement": "Participated in a national-level coding assessment focused on algorithmic and analytical skills.",
+        "year": 2024
+      }
+    ]
+  }

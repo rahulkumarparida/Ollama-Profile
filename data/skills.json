@@ -1,0 +1,132 @@
+{
+    "languages": [
+      {
+        "name": "HTML",
+        "proficiency": "Expert",
+        "used_in": ["FOXEROXX", "Library Management"]
+      },
+      {
+        "name": "CSS",
+        "proficiency": "Advanced",
+        "used_in": ["Library Management", "Portfolio Design"]
+      },
+      {
+        "name": "JavaScript",
+        "proficiency": "Intermediate",
+        "used_in": ["Library Management", "Tic Tac Toe", "React Practice"]
+      },
+      {
+        "name": "Python",
+        "proficiency": "Intermediate",
+        "used_in": ["Student Management System", "Flask API projects"]
+      },
+      {
+        "name": "Java",
+        "proficiency": "Intermediate",
+        "used_in": ["OOP assignments", "basic console applications"]
+      }
+    ],
+    "frontend": [
+      {
+        "technology": "React",
+        "proficiency": "Intermediate",
+        "key_concepts": ["Components", "Props", "State", "Hooks"]
+      },
+      {
+        "technology": "Bootstrap",
+        "proficiency": "Intermediate",
+        "key_concepts": ["Responsive Layouts", "Grid System"]
+      },
+      {
+        "technology": "Tailwind CSS",
+        "proficiency": "Basic",
+        "key_concepts": ["Utility Classes", "Custom Styling"]
+      }
+    ],
+    "backend": [
+      {
+        "framework": "Flask",
+        "proficiency": "Intermediate",
+        "projects_used": ["Student Management System"],
+        "key_concepts": [
+          "Routing",
+          "CRUD",
+          "Templates",
+          "PostgreSQL Integration"
+        ]
+      },
+      {
+        "framework": "Django REST Framework",
+        "proficiency": "Intermediate",
+        "projects_used": [
+          "Money Tracker App",
+          "To-do list",
+          "Airbnb Clone API"
+        ],
+        "key_concepts": [
+          "Models",
+          "Viewsets",
+          "Serializers",
+          "Authentication",
+          "Pagination"
+        ]
+      }
+    ],
+    "databases": [
+      {
+        "name": "PostgreSQL",
+        "proficiency": "Intermediate",
+        "experience": "Used with Django backend for CRUD and department relations."
+      },
+      {
+        "name": "SQLite",
+        "proficiency": "Basic",
+        "experience": "Used in small local Django projects."
+      }
+    ],
+    "tools_and_platforms": [
+      { "tool": "Git", "use_case": "Version control for all projects" },
+      {
+        "tool": "GitHub",
+        "use_case": "Open-source contributions and project hosting"
+      },
+      {
+        "tool": "Postman",
+        "use_case": "Testing APIs during backend development"
+      },
+      { "tool": "VS Code", "use_case": "Primary IDE for coding and debugging" },
+      {
+        "tool": "Supabase",
+        "use_case": "Deploying and Management of database"
+      },
+      { "tool": "Render", "use_case": "Deploying Web Services" }
+    ],
+    "other_technical_skills": [
+      "REST API development",
+      "Authentication and Authorization",
+      "Pagination and Query Parameters",
+      "LocalStorage-based Authentication",
+      "Responsive Web Design",
+      "Unit Testing using Jest"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Attention to Detail",
+      "Logical Communication",
+      "Persistence",
+      "Time Management",
+      "Self-Learning"
+    ],
+    "learning_in_progress": [
+      "Advanced React Concepts",
+      "Django REST Framework Advanced Models and Serializers",
+      "Advanced Postgres Queries",
+      "Electron.js for Desktop App Conversion"
+    ],
+    "technical_strengths": [
+      "Debugging JavaScript and logic errors quickly",
+      "Designing clean, modular REST APIs",
+      "Understanding end-to-end flow from frontend to database",
+      "Implementing authentication systems efficiently"
+    ]
+  }

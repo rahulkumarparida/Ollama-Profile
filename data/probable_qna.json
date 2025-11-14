@@ -1,0 +1,430 @@
+[
+  {
+    "question": "What is Rahul Kumar Parida’s full name?",
+    "answer": "His full name is Rahul Kumar Parida."
+  },
+  {
+    "question": "Who is Rahul Kumar Parida?",
+    "answer": "Rahul Kumar Parida is a student currently pursuing a bachelor's degree in Computer Science and Engineering. He has strong interests in web development, software systems, and emerging technologies."
+  },
+  {
+    "question": "What name does Rahul prefer to be called?",
+    "answer": "He prefers to be called Rahul."
+  },
+  {
+    "question": "When is Rahul’s birthday?",
+    "answer": "His date of birth is September 29, 2004."
+  },
+  {
+    "question": "Where is Rahul currently located?",
+    "answer": "He is currently in Dhenkanal, Odisha, India."
+  },
+  {
+    "question": "What languages can Rahul speak?",
+    "answer": "He speaks English, Hindi, Odia, and lightly Japanese."
+  },
+  {
+    "question": "Can you give a brief bio of Rahul?",
+    "answer": "Rahul is an engineering student passionate about full-stack development, open-source, and AI. He’s known for his logical thinking, honesty, and practical project-building approach."
+  },
+  {
+    "question": "What degree is Rahul pursuing?",
+    "answer": "He is pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering."
+  },
+  {
+    "question": "What is Rahul’s major?",
+    "answer": "His major is Computer Science and Engineering."
+  },
+  {
+    "question": "Which college does Rahul attend?",
+    "answer": "He attends Synergy Institute of Engineering and Technology, Dhenkanal."
+  },
+  {
+    "question": "Which university is Rahul’s institute affiliated with?",
+    "answer": "It is affiliated with Biju Patnaik University of Technology."
+  },
+  {
+    "question": "When will Rahul graduate?",
+    "answer": "He is expected to graduate in 2027."
+  },
+  {
+    "question": "Which year of his B.Tech is Rahul currently in?",
+    "answer": "He is currently in his 3rd year."
+  },
+  {
+    "question": "What are Rahul’s main academic interests?",
+    "answer": "His academic interests include Software Development, Artificial Intelligence, and Web Technologies."
+  },
+  {
+    "question": "What is Rahul’s current professional role?",
+    "answer": "He is an Engineering Student."
+  },
+  {
+    "question": "What is Rahul’s area of specialization?",
+    "answer": "He is specializing in Full Stack Web Development."
+  },
+  {
+    "question": "What is Rahul’s primary career goal?",
+    "answer": "His goal is to become a proficient full-stack developer and secure a developer role immediately after graduation."
+  },
+  {
+    "question": "What technologies is Rahul currently learning?",
+    "answer": "He is actively learning React, Django REST Framework, System Design, and DSA."
+  },
+  {
+    "question": "What are Rahul’s long-term career goals?",
+    "answer": "His long-term goal is to create intelligent systems and tools that simplify learning and development for others."
+  },
+  {
+    "question": "What are Rahul’s short-term goals?",
+    "answer": "He aims to complete his full-stack training, master DSA, and contribute to large-scale open-source projects."
+  },
+  {
+    "question": "What motivates Rahul to learn new technologies?",
+    "answer": "He enjoys understanding how things work and solving real problems through logic. Building systems that make sense motivates him the most."
+  },
+  {
+    "question": "What programming languages is Rahul proficient in?",
+    "answer": "He is proficient in HTML, CSS, JavaScript, Python, and Java."
+  },
+  {
+    "question": "What is Rahul’s proficiency level in Python?",
+    "answer": "He has intermediate proficiency in Python."
+  },
+  {
+    "question": "How skilled is Rahul in HTML and CSS?",
+    "answer": "He is an expert in HTML and has advanced proficiency in CSS."
+  },
+  {
+    "question": "Which frameworks and libraries does Rahul use?",
+    "answer": "He uses React, Flask, and Django."
+  },
+  {
+    "question": "Which databases does Rahul have experience with?",
+    "answer": "He has intermediate experience with PostgreSQL and basic experience with SQLite."
+  },
+  {
+    "question": "What are Rahul’s main technical strengths?",
+    "answer": "His strengths include analytical thinking, writing clean code, quick learning, and logical debugging."
+  },
+  {
+    "question": "What are Rahul’s key soft skills?",
+    "answer": "His soft skills include problem-solving, attention to detail, logical communication, persistence, time management, and self-learning."
+  },
+  {
+    "question": "How would you describe Rahul’s personality?",
+    "answer": "He is honest, analytical, focused, curious, and self-driven."
+  },
+  {
+    "question": "What is Rahul’s communication style?",
+    "answer": "His communication style is direct, logical, and brutally honest. He focuses on clarity, not comfort."
+  },
+  {
+    "question": "How does Rahul make decisions?",
+    "answer": "He makes data-driven decisions, preferring reasoning and logic over assumptions."
+  },
+  {
+    "question": "What values does Rahul believe in?",
+    "answer": "He values Truth, Growth, Consistency, and Clarity."
+  },
+  {
+    "question": "What is Rahul’s learning mindset?",
+    "answer": "He believes in mastering fundamentals and understanding the 'why' behind every concept."
+  },
+  {
+    "question": "What is Rahul’s email address?",
+    "answer": "His email is rahulkumarparida52@gmail.com."
+  },
+  {
+    "question": "Where can Rahul’s GitHub profile be found?",
+    "answer": "His GitHub is https://github.com/rahulkumarparida."
+  },
+  {
+    "question": "What is Rahul’s LinkedIn profile link?",
+    "answer": "His LinkedIn is https://www.linkedin.com/in/rahul-kumar-parida-b6219a292/."
+  },
+  {
+    "question": "What is Rahul’s Instagram handle?",
+    "answer": "His Instagram is https://www.instagram.com/rahulroxx460/."
+  },
+  {
+    "question": "Can you describe Rahul’s Pneumonia Prediction Model project?",
+    "answer": "It’s a deep learning project that predicts pneumonia from chest X-ray images using transfer learning. He built a custom Django REST API for it to handle GET and POST requests."
+  },
+  {
+    "question": "What challenges did Rahul face in the Pneumonia Prediction project?",
+    "answer": "He faced challenges with dataset collection, model training, and integrating the model output through APIs."
+  },
+  {
+    "question": "What did Rahul learn from his Pneumonia Prediction Model project?",
+    "answer": "He deepened his understanding of deep learning, end-to-end integration, and model creation."
+  },
+  {
+    "question": "What is Rahul’s Money Tracker project about?",
+    "answer": "It’s a Django-based personal finance app that helps users track income and expenses."
+  },
+  {
+    "question": "What challenges did Rahul face in the Money Tracker project?",
+    "answer": "Handling date aggregation and building a full-stack Django app were key challenges."
+  },
+  {
+    "question": "Can you describe Rahul’s Recipe App project?",
+    "answer": "It’s a React-based web app that uses the Spoonacular API to search and display recipes."
+  },
+  {
+    "question": "What did Rahul learn from his Recipe App React project?",
+    "answer": "He learned how to integrate APIs effectively and manage React components and state."
+  },
+  {
+    "question": "What is Rahul’s Library Management System project?",
+    "answer": "It’s a JavaScript-based frontend app to manage books using localStorage authentication and API integration."
+  },
+  {
+    "question": "What did Rahul learn from his Library Management System?",
+    "answer": "He improved his understanding of modular JavaScript, localStorage, and asynchronous operations."
+  },
+  {
+    "question": "What is Rahul’s Student Management System project?",
+    "answer": "It’s a CRUD application built with Flask and PostgreSQL to manage students and departments."
+  },
+  {
+    "question": "Which project taught Rahul the most?",
+    "answer": "The Student Management System — it gave him a deep understanding of backend CRUD operations and SQL structure."
+  },
+  {
+    "question": "What are Rahul’s favorite academic subjects?",
+    "answer": "DBMS, OOP, and DSA are his top interests, rated 9/10."
+  },
+  {
+    "question": "What certifications has Rahul earned?",
+    "answer": "He has completed multiple certifications from Meta, Google, UC San Diego, and Postman Academy."
+  },
+  {
+    "question": "What rank did Rahul achieve in GSSoC 2024?",
+    "answer": "He achieved rank 246 with a score of 1010 in GSSoC 2024 Extended Edition."
+  },
+  {
+    "question": "Has Rahul done any virtual internships or simulations?",
+    "answer": "Yes, he completed the AWS Solutions Architecture Job Simulation on Forage."
+  },
+  {
+    "question": "What badges has Rahul earned in GSSoC 2024?",
+    "answer": "He earned multiple badges including Champion, Web3Hack, Trailblazer, Summit Seeker, Postman, Explorer, and Adventurer badges."
+  },
+  {
+    "question": "What motivates Rahul the most in tech?",
+    "answer": "He’s driven by the logic behind systems and the satisfaction of building things that make sense."
+  },
+  {
+    "question": "What kind of team member is Rahul?",
+    "answer": "He’s logical, honest, and values clarity in discussions — preferring direct feedback and efficient problem-solving."
+  },
+  {
+    "question": "How does Rahul approach problem-solving?",
+    "answer": "He approaches every problem logically, breaking it into smaller solvable parts before coding."
+  },
+  {
+    "question": "What’s one word that best describes Rahul?",
+    "answer": "Analytical."
+  },
+  {
+    "question": "What’s Rahul’s biggest technical strength?",
+    "answer": "Debugging logic quickly and designing modular, scalable APIs."
+  },
+  {
+    "question": "How confident is Rahul in DSA?",
+    "answer": "He rates his confidence as 8 out of 10."
+  },
+  {
+    "question": "What are Rahul’s recent achievements?",
+    "answer": "He achieved a national rank of 2345 in the Common Internship Test 2024 and was among the top contributors in GSSoC 2024."
+  },
+  {
+    "question": "What kind of learner is Rahul?",
+    "answer": "He’s self-driven, focused on mastering fundamentals, and prefers learning by building projects."
+  },
+  {
+    "question": "How does Rahul handle challenges?",
+    "answer": "He analyzes the problem logically, isolates the root cause, and resolves it methodically rather than rushing."
+  },
+  {
+    "question": "What year did Rahul start his B.Tech degree?",
+    "answer": "Rahul started his Bachelor of Technology degree in 2023."
+  },
+  {
+    "question": "Which subjects has Rahul studied in his B.Tech course?",
+    "answer": "Rahul has studied Operating Systems, Database Management Systems (DBMS), Computer Networks, Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), and Software Engineering."
+  },
+  {
+    "question": "Which subjects is Rahul most confident in?",
+    "answer": "Rahul is most confident in Object-Oriented Programming (OOP) and Database Management Systems (DBMS), where his confidence level is 9 and 8 out of 10 respectively."
+  },
+  {
+    "question": "What type of learning approach does Rahul’s college follow?",
+    "answer": "His college follows a blend of theoretical learning and project-based applications to build practical engineering skills."
+  },
+  {
+    "question": "Which tools does Rahul frequently use for development?",
+    "answer": "Rahul regularly uses Git, GitHub, Postman, VS Code, Supabase, and Render."
+  },
+  {
+    "question": "What is Rahul’s experience with database deployment?",
+    "answer": "He uses Supabase for deploying and managing databases and Render for hosting web services."
+  },
+  {
+    "question": "Has Rahul integrated AI into any of his projects?",
+    "answer": "Yes, Rahul has integrated deep learning in his Pneumonia Prediction Model, which predicts pneumonia from X-ray images using a Django REST API."
+  },
+  {
+    "question": "Which project best demonstrates Rahul’s full-stack skills?",
+    "answer": "The Student Management System built with Flask and PostgreSQL showcases his full-stack development and CRUD implementation skills."
+  },
+  {
+    "question": "Which project demonstrates Rahul’s frontend skills?",
+    "answer": "His Library Management System and Recipe App React projects demonstrate his frontend skills using HTML, CSS, JavaScript, and React."
+  },
+  {
+    "question": "Which of Rahul’s projects involved cloud or external integrations?",
+    "answer": "His Airbnb API clone project used Cloudinary for image handling and Supabase for database integration."
+  },
+  {
+    "question": "How does Rahul handle authentication in his projects?",
+    "answer": "He has implemented authentication in multiple projects, including localStorage-based authentication in his Library Management System and API authentication using Django REST Framework in his Airbnb API clone."
+  },
+  {
+    "question": "What is the key focus of Rahul’s backend projects?",
+    "answer": "His backend projects focus on building REST APIs, implementing authentication, handling CRUD operations, and ensuring end-to-end connectivity between frontend and database."
+  },
+  {
+    "question": "What ranking did Rahul achieve in open-source competitions?",
+    "answer": "Rahul ranked 246th with a score of 1010 in the GirlScript Summer of Code (GSSoC) 2024 Extended Edition."
+  },
+  {
+    "question": "What kind of recognition did Rahul earn in GSSoC 2024?",
+    "answer": "He earned multiple badges including the Champion Badge, Trailblazer Badge, Summit Seeker Badge, Web3Hack Badge, Postman Badge, Explorer Badge, and Adventurer Badge."
+  },
+  {
+    "question": "What is Rahul’s main motivation behind contributing to open source?",
+    "answer": "He contributes to open source to gain practical development experience, collaborate with real developers, and apply his learning in real-world scenarios."
+  },
+  {
+    "question": "Which online platforms has Rahul earned certifications from?",
+    "answer": "He has earned certifications from Coursera, Google Cloud, Postman Academy, Forage, and Tutedude."
+  },
+  {
+    "question": "Which major organizations issued Rahul’s certifications?",
+    "answer": "His certifications were issued by Meta, Google Cloud, University of Michigan, University of California San Diego, Postman, and AWS."
+  },
+  {
+    "question": "What are Rahul’s most recent certifications?",
+    "answer": "His most recent certifications are 'Programming with Python' from Tutedude and 'Meta: Introduction to Back-End Development' from Coursera, completed in September 2025."
+  },
+  {
+    "question": "Which of Rahul’s certifications are related to AI?",
+    "answer": "Rahul completed Google's 'Introduction to Generative AI', 'Introduction to Responsible AI', and 'Introduction to Large Language Models' courses."
+  },
+  {
+    "question": "What does Rahul’s 'Postman API Fundamentals' badge represent?",
+    "answer": "It represents his understanding of creating, testing, and managing API requests, collections, and variables."
+  },
+  {
+    "question": "Has Rahul participated in any coding competitions?",
+    "answer": "Yes, Rahul participated in CodeSummit 2024 on Unstop, which tested algorithmic and analytical problem-solving skills."
+  },
+  {
+    "question": "What motivates Rahul to work on projects?",
+    "answer": "He enjoys the process of transforming ideas into logical, functioning systems that solve real problems."
+  },
+  {
+    "question": "What is Rahul’s mindset when facing complex coding tasks?",
+    "answer": "He approaches them analytically—breaking problems into smaller logical parts before implementing the solution."
+  },
+  {
+    "question": "How does Rahul usually debug his code?",
+    "answer": "He identifies the logical flow first, traces variable states, and uses systematic debugging rather than guesswork."
+  },
+  {
+    "question": "What are Rahul’s favorite areas within computer science?",
+    "answer": "Rahul is most interested in Web Development, Database Systems, and Artificial Intelligence."
+  },
+  {
+    "question": "How would you describe Rahul’s work ethic?",
+    "answer": "Rahul is disciplined, consistent, and detail-oriented. He prioritizes correctness and logical structure in his work."
+  },
+  {
+    "question": "What defines Rahul’s personality as a learner?",
+    "answer": "He’s self-driven, curious, and persistent — preferring deep understanding over surface-level learning."
+  },
+  {
+    "question": "What are Rahul’s values as a developer?",
+    "answer": "He values truth, growth, consistency, and clarity in both coding and communication."
+  },
+  {
+    "question": "What makes Rahul different from other engineering students?",
+    "answer": "He doesn’t just learn theory — he applies it through projects that demonstrate end-to-end system understanding."
+  },
+  {
+    "question": "How does Rahul manage his time between college and self-learning?",
+    "answer": "He follows a structured daily routine that balances academic coursework with self-paced development learning."
+  },
+  {
+    "question": "Does Rahul have experience with REST APIs?",
+    "answer": "Yes, REST API development is one of his technical strengths. He has designed and implemented multiple REST APIs using Django REST Framework and Flask."
+  },
+  {
+    "question": "Has Rahul learned version control formally?",
+    "answer": "Yes, he completed the Meta 'Version Control' course on Coursera, where he learned Git branching, collaboration, and pull requests."
+  },
+  {
+    "question": "What kind of problem-solving approach does Rahul use in programming?",
+    "answer": "He uses logical decomposition — breaking down problems into components, solving smaller parts, and then integrating the solution."
+  },
+  {
+    "question": "Which skill is Rahul currently improving the most?",
+    "answer": "He’s currently improving advanced React concepts, complex Django REST serializers, and PostgreSQL queries."
+  },
+  {
+    "question": "What is Rahul’s current technical focus area?",
+    "answer": "He is focusing on integrating React with Django REST Framework to build scalable full-stack web applications."
+  },
+  {
+    "question": "Has Rahul created any desktop applications?",
+    "answer": "He is currently exploring Electron.js to convert web apps into desktop applications."
+  },
+  {
+    "question": "What kind of team environment suits Rahul best?",
+    "answer": "He thrives in logical, direct, and feedback-oriented environments where problem-solving is prioritized over comfort."
+  },
+  {
+    "question": "What kind of learner is Rahul?",
+    "answer": "He is a self-learner who prefers mastering concepts by building projects and solving real-world problems."
+  },
+  {
+    "question": "What kind of developer role is Rahul preparing for?",
+    "answer": "He is preparing for a full-stack developer role with a focus on scalable system design and clean backend architecture."
+  },
+  {
+    "question": "How has Rahul applied his academic knowledge in real-world projects?",
+    "answer": "He has used his knowledge of DBMS, OOP, and DSA in projects like the Student Management System and Library Management System."
+  },
+  {
+    "question": "What kind of systems does Rahul aim to build in the future?",
+    "answer": "He aims to build intelligent, learning-based systems that simplify development and education."
+  },
+  {
+    "question": "Does Rahul enjoy collaborative projects?",
+    "answer": "Yes, especially when they involve open-source contributions or team-based problem-solving."
+  },
+  {
+    "question": "What makes Rahul’s GitHub profile notable?",
+    "answer": "It contains multiple full-stack projects with consistent documentation, reflecting his structured approach to development."
+  },
+  {
+    "question": "What type of mindset does Rahul bring to technology?",
+    "answer": "He combines analytical reasoning with practical execution — always focused on understanding how and why a system works."
+  },
+  {
+    "question": "What motivates Rahul to continue learning even after completing certifications?",
+    "answer": "He believes technology evolves rapidly and staying relevant requires continuous learning through projects and experimentation."
+  }
+]

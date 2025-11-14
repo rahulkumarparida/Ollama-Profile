@@ -1,0 +1,11 @@
+openai
+langchain>=0.0.260
+chromadb
+tqdm
+fastapi
+uvicorn[standard]
+python-multipart
+gradio
+sentence-transformers
+faiss-cpu
+pydantic

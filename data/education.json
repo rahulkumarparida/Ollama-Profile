@@ -1,0 +1,74 @@
+ {
+    "current_degree": {
+      "degree": "Bachelor of Technology (B.Tech)",
+      "major": "Computer Science and Engineering",
+      "institute": "Synergy Institute of Engineering and Technology",
+      "university": "Biju Patnaik University of Technology",
+      "start_year": 2022,
+      "expected_graduation_year": 2027,
+      "current_year": 3,
+      "status": "Pursuing"
+    },
+    "college_details": {
+      "city": "Dhenkanal, Odisha, India",
+      "environment": "Semi-urban engineering college with focus on practical engineering education.",
+      "learning_approach": "Combination of theoretical understanding and project-based applications."
+    },
+    "subjects_and_courses": [
+      {
+        "subject": "Operating Systems",
+        "type": "Core",
+        "year": 2024,
+        "interest_level": 8,
+        "confidence_level": 7
+      },
+      {
+        "subject": "Database Management Systems (DBMS)",
+        "type": "Core",
+        "year": 2024,
+        "interest_level": 9,
+        "confidence_level": 8
+      },
+      {
+        "subject": "Computer Networks",
+        "type": "Core",
+        "year": 2025,
+        "interest_level": 8,
+        "confidence_level": 7
+      },
+      {
+        "subject": "Object Oriented Programming (OOP)",
+        "type": "Core",
+        "year": 2023,
+        "interest_level": 9,
+        "confidence_level": 9
+      },
+      {
+        "subject": "Data Structures and Algorithms (DSA)",
+        "type": "Core",
+        "year": 2024,
+        "interest_level": 9,
+        "confidence_level": 8
+      },
+      {
+        "subject": "Software Engineering",
+        "type": "Core",
+        "year": 2025,
+        "interest_level": 7,
+        "confidence_level": 7
+      }
+    ],
+    "learning_highlights": [
+      "Gained a solid foundation in OOP and data structures using Java and Python.",
+      "Learned database design principles and implemented CRUD operations using SQL and PostgreSQL.",
+      "Understood process scheduling, memory management, and file systems through Operating Systems coursework.",
+      "Applied theoretical computer science knowledge in practical web development projects."
+    ],
+    "extra_academic_learning": {},
+    "future_learning_goals": [
+      "Deepen understanding of DSA and algorithms for coding interviews.",
+      "Master Django REST Framework and integrate with React for full-stack projects.",
+      "Learn basic machine learning for integrating AI into web applications.",
+      "Understand system design and scalability for backend development."
+    ]
+  }

@@ -1,0 +1,72 @@
+[
+    {
+    "title": "airBNB API clone",
+    "technologies": ["Python" , "Django REST framework" , "cors" , "authentication_middlewares" , "djoser" , "Cloudinary" , "Supabase" , "render"],
+    "description": "A Backend API that replicates the core functionality of a booking platform (inspired by Airbnb). Users can view properties, search by location/dates, make bookings, and hosts can list properties — built to showcase end-to-end development skills.Cloudinary uploads and image handling.",
+    "challenges": [
+      "Building instances and using Djoser",
+      "Custom Serializers for different users",
+      "Building the API in a complex format"
+    ],
+    "learning": "Improved understanding in API development, end-to-end connections, Authentication",
+    "github_repository":"https://github.com/rahulkumarparida/AirBNB"
+  },
+    {
+    "title": "Pneumonia Prediction Model",
+    "technologies": ["Deep learning","HTML", "CSS", "JavaScript" , "Python" , "Django REST framework"],
+    "description": "A beginner-friendly deep learning project that predicts pneumonia from Chest X-ray images. Trained on a small dataset for demonstration purposes. Uses transfer learning to improve accuracy. Integrated with a custom API (built by me) to GET and POST prediction data to the frontend.",
+    "challenges": [
+      "Collection of Large Dataset",
+      "Training the models",
+      "Building the API according to the output"
+    ],
+    "learning": "Improved understanding in deep learning, end-to-end connections, model creation",
+    "github_repository":"https://github.com/rahulkumarparida/Pneumonia_Prediction"
+  },
+  {
+    "title": "Money Tracker",
+    "technologies": ["HTML", "CSS", "Python" , "Django"],
+    "description": "A simple personal finance web-app built with Django that allows users to track income and expenses, view summaries, and manage their financial data.",
+    "challenges": [
+      "Date and aggregation",
+      "Different instance handling",
+      "Building a full stack django app"
+    ],
+    "learning": "Improved understanding in Django as a full stack framework",
+    "github_repository":"https://github.com/rahulkumarparida/Trackee--Django---Money-Tracker-"
+  },
+  {
+    "title": "Recipe App React",
+    "technologies": ["HTML", "CSS", "Javascript"],
+    "description": "A responsive recipe-search web application built using React (via Vite) that leverages the Spoonacular API to fetch and display recipes. Perfect for exploring meals, filtering by categories/ingredients, and viewing recipe details.",
+    "challenges": [
+      "API integration",
+      "State Management",
+      "Components handling"
+    ],
+    "learning": "Improved my knowledge about APIs",
+    "github_repository":"https://github.com/rahulkumarparida/Recipe-App-React"
+  },
+  {
+    "title": "Library Management System",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "description": "Frontend web app to manage books, using API integration and localStorage authentication.",
+    "challenges": [
+      "Implementing authentication without backend",
+      "Handling API fetch errors and async logic"
+    ],
+    "learning": "Improved understanding of localStorage, modular JS structure, and DOM manipulation.",
+    "github_repository":"https://github.com/rahulkumarparida/Library-Management"
+  },
+  {
+    "title": "Student Management System",
+    "technologies": ["Python", "Flask", "PostgreSQL"],
+    "description": "Full-stack CRUD app with department-wise student management.",
+    "challenges": [
+      "Connecting Flask to PostgreSQL securely",
+      "Designing CRUD routes with Jinja templates"
+    ],
+    "learning": "Learned server-side rendering, SQL schema design, and data validation.",
+    "github_repository":"https://github.com/rahulkumarparida/Student-Management-System"
+  }
+]

@@ -1,0 +1,86 @@
+{
+    "basic_info": {
+      "full_name": "Rahul Kumar Parida",
+      "nickname": "Rahul",
+      "dob": "2004-09-29",
+      "gender": "Male",
+      "nationality": "Indian",
+      "current_location": "Dhenkanal, Odisha, India",
+      "spoken_languages": ["English", "Hindi", "Odia", "Japanese(lightly)"],
+      "bio": "Engineering student passionate about full-stack development, open-source, and AI. Known for logical thinking, honesty, and building practical projects."
+    },
+    "education_info": {
+      "degree": "Bachelor of Technology (B.Tech)",
+      "major": "Computer Science and Engineering",
+      "institute": "Synergy Institute of Engineering and Technology , Dhenkanal",
+      "university": "Biju Patnaik University of Technology",
+      "start_year": 2023,
+      "expected_graduation_year": 2027,
+      "current_year": 3,
+      "status": "Pursuing",
+      "academic_interests": [
+        "Software Development",
+        "Artificial Intelligence",
+        "Web Technologies"
+      ]
+    },
+    "professional_info": {
+      "current_role": "Engineering Student",
+      "specialization": "Full Stack Web Development",
+      "experience_level": "Intermediate",
+      "career_goal": "To become a proficient full-stack developer and secure a developer role immediately after graduation.",
+      "active_learning_areas": [
+        "React",
+        "Django REST Framework",
+        "System Design",
+        "DSA"
+      ],
+      "project_focus": "Building real-world applications that combine front-end and back-end technologies."
+    },
+    "interests_and_goals": {
+      "technical_interests": [
+        "Web Development",
+        "AI Integration",
+        "Open Source Contribution"
+      ],
+      "personal_interests": [
+        "Problem Solving",
+        "System Logic",
+        "Learning Through Projects"
+      ],
+      "long_term_goal": "To create intelligent systems and tools that simplify learning and development for others.",
+      "short_term_goal": "To complete full-stack training, master DSA, and contribute to large-scale open-source projects.",
+      "motivation": "Turning ideas into functioning systems that make logical and practical sense."
+    },
+    "skills_summary": {
+      "primary_languages": ["HTML", "CSS", "JavaScript", "Python", "Java"],
+      "frameworks_and_libraries": ["React", "Flask", "Django"],
+      "databases": ["PostgreSQL", "SQLite"],
+      "dev_tools": ["Git", "GitHub", "Postman", "VS Code"],
+      "strengths": [
+        "Analytical Thinking",
+        "Clean Code",
+        "Quick Learning",
+        "Logical Debugging"
+      ]
+    },
+    "personality_summary": {
+      "traits": ["Honest", "Analytical", "Focused", "Curious", "Self-Driven"],
+      "communication_style": "Direct, logical, and brutally honest — focused on clarity, not comfort.",
+      "decision_style": "Data-driven; prefers reasoning and clear logic before conclusions.",
+      "values": ["Truth", "Growth", "Consistency", "Clarity"],
+      "mindset": "Believes in mastering fundamentals and understanding 'why' behind everything."
+    },
+    "contact_info": {
+      "email": "rahulkumarparida52@gmail.com",
+      "linkedIn": "https://www.linkedin.com/in/rahul-kumar-parida-b6219a292/",
+      "github": "https://github.com/rahulkumarparida",
+      "instagram": "https://www.instagram.com/rahulroxx460/"
+    },
+    "meta_data": {
+      "dataset_version": "1.0",
+      "last_updated": "2025-11-07",
+      "created_for": "Personal AI Model Training (Knowledge + Personality)",
+      "data_scope": "Covers life, education, projects, and achievements till 2025."
+    }
+  }
