@@ -68,6 +68,91 @@ Ollama-Profile/
 └── README.md
 ```
 
+## ⚙️ Tech Stack
+```text
+Python
+
+Ollama
+
+Phi-3 LLM
+
+ChromaDB
+
+Sentence Transformers / Embeddings
+
+JSON-based knowledge representation
+```
+
+## ▶️ How It Works
+```text
+Personal data is written in structured JSON format
+
+Data is chunked and converted into embeddings
+
+Embeddings are stored in ChromaDB
+
+User query is analyzed using keyword routing
+
+Only relevant chunks are retrieved
+
+Ollama’s Phi-3 generates answers using retrieved context
+
+```
+## 🛠️ Installation & Setup
+```bash
+# Clone the repo
+git clone https://github.com/rahulkumarparida/Ollama-Profile.git
+cd Ollama-Profile
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Pull Phi-3 model
+ollama pull phi3
+
+# Run the app
+python main.py
+
+```
+
+```text
+📌 Example Queries
+
+“What projects has he built?”
+
+“What technologies does he know?”
+
+“Tell me about his education”
+
+“What are his achievements?”
+
+Each query retrieves only the relevant vector space, not the entire dataset.
+
+```
+
+## 🎯 Why This Project Matters
+
+```text
+Demonstrates real RAG implementation, not just API calls
+
+Shows understanding of:
+
+Embeddings
+
+Vector databases
+
+Context grounding
+
+Query routing
+
+Fully local, privacy-preserving AI system
+
+```
+
 
 ## Outputs
 ---
@@ -76,3 +161,39 @@ Ollama-Profile/
 <img width="1920" height="1020" alt="qa_local py - persolan_model - Visual Studio Code 14-11-2025 15_30_58" src="https://github.com/user-attachments/assets/3e7235f7-8c18-4c45-a8da-03189f74f65d" />
 <img width="1920" height="1020" alt="qa_local py - persolan_model - Visual Studio Code 13-11-2025 17_01_47" src="https://github.com/user-attachments/assets/357a9d90-e4cd-47db-8407-d108d94eb60e" />
 <img width="1920" height="1020" alt="qa_local py - persolan_model - Visual Studio Code 14-11-2025 15_34_15" src="https://github.com/user-attachments/assets/03a0dff0-0159-40ac-bfc1-748f717aa584" />
+
+
+# 📜 License
+## MIT License
+
+---
+
+## 🌐 GitHub Pages – About Section (Short & Clean)
+
+Use this for **GitHub Pages / repo About section**:
+
+> **Ollama-Profile** is a Retrieval-Augmented Generation (RAG) system that answers questions about me using structured personal data. It combines ChromaDB for vector search, keyword-based query routing, and a local Phi-3 model via Ollama to deliver accurate, hallucination-free responses — fully offline and privacy-focused.
+
+---
+
+## 🧠 Honest Evaluation (No Hype)
+
+What you did **right**:
+- ✅ Real RAG (not prompt stuffing)
+- ✅ Vector store separation
+- ✅ Routing logic (this is advanced)
+- ✅ Local inference (industry-relevant)
+
+What you can add later (optional):
+- Metadata-based filtering instead of keyword-only routing
+- Hybrid search (BM25 + vector)
+- Simple FastAPI wrapper
+- UI (Streamlit / React)
+
+If you want, next I can:
+- 🔧 Review your **actual code line-by-line**
+- 📈 Suggest **resume-ready bullet points**
+- 🧪 Help convert this into an **API or SaaS-style project**
+
+Just tell me.
+
