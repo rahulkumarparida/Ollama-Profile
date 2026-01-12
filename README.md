@@ -1,3 +1,57 @@
+# Ollama-Profile (RAG-based Personal Knowledge Assistant)
+
+Ollama-Profile is a **Retrieval-Augmented Generation (RAG)** system built to answer questions **about me** using structured personal data instead of hallucinated responses.
+
+The system uses:
+- **JSON-based personal knowledge**
+- **Vector embeddings stored in ChromaDB**
+- **Local LLM inference using Ollama (Phi-3)**
+- **Keyword-based routing for targeted retrieval**
+
+This ensures responses are **context-aware, fast, and accurate**.
+
+---
+
+## 🚀 Features
+
+- 📄 **Structured Personal Knowledge Base**
+  - Personal data stored as JSON (projects, skills, education, achievements, etc.)
+
+- 🧠 **Vector Search with ChromaDB**
+  - Data is chunked, embedded, and stored for semantic retrieval
+
+- 🔀 **Query Routing Logic**
+  - Keyword-based routing restricts retrieval to relevant chunks  
+  - Example: project-related queries search only project vectors
+
+- 🤖 **Local LLM via Ollama**
+  - Uses `phi3` model for lightweight, fast inference
+  - No cloud APIs, fully local execution
+
+- ❌ **No Hallucinations**
+  - Model answers strictly from retrieved context
+  - If data doesn’t exist, it says so
+
+---
+
+## 🧩 Architecture Overview
+
+```text
+User Query
+   ↓
+Keyword Router
+   ↓
+Relevant Vector Collection (ChromaDB)
+   ↓
+Context Retrieval
+   ↓
+Ollama (Phi-3)
+   ↓
+Final Answer
+```
+
+
+
 ## Outputs
 ---
 
