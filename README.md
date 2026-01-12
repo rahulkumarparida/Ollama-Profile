@@ -50,6 +50,23 @@ Ollama (Phi-3)
 Final Answer
 ```
 
+```text
+Ollama-Profile/
+│
+├── data/
+│   └── profile.json        # Structured personal data
+│
+├── vector_store/
+│   └── chroma/             # ChromaDB persistent storage
+│
+├── embedding.py            # Chunking & vectorization logic
+├── retriever.py            # Context retrieval + routing
+├── llm.py                  # Ollama model interface
+├── main.py                 # Entry point
+│
+├── requirements.txt
+└── README.md
+```
 
 
 ## Outputs
