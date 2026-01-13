@@ -162,38 +162,7 @@ Fully local, privacy-preserving AI system
 <img width="1920" height="1020" alt="qa_local py - persolan_model - Visual Studio Code 13-11-2025 17_01_47" src="https://github.com/user-attachments/assets/357a9d90-e4cd-47db-8407-d108d94eb60e" />
 <img width="1920" height="1020" alt="qa_local py - persolan_model - Visual Studio Code 14-11-2025 15_34_15" src="https://github.com/user-attachments/assets/03a0dff0-0159-40ac-bfc1-748f717aa584" />
 
-
-# 📜 License
-## MIT License
-
 ---
 
-## 🌐 GitHub Pages – About Section (Short & Clean)
 
-Use this for **GitHub Pages / repo About section**:
-
-> **Ollama-Profile** is a Retrieval-Augmented Generation (RAG) system that answers questions about me using structured personal data. It combines ChromaDB for vector search, keyword-based query routing, and a local Phi-3 model via Ollama to deliver accurate, hallucination-free responses — fully offline and privacy-focused.
-
----
-
-## 🧠 Honest Evaluation (No Hype)
-
-What you did **right**:
-- ✅ Real RAG (not prompt stuffing)
-- ✅ Vector store separation
-- ✅ Routing logic (this is advanced)
-- ✅ Local inference (industry-relevant)
-
-What you can add later (optional):
-- Metadata-based filtering instead of keyword-only routing
-- Hybrid search (BM25 + vector)
-- Simple FastAPI wrapper
-- UI (Streamlit / React)
-
-If you want, next I can:
-- 🔧 Review your **actual code line-by-line**
-- 📈 Suggest **resume-ready bullet points**
-- 🧪 Help convert this into an **API or SaaS-style project**
-
-Just tell me.
 
